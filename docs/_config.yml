@@ -30,7 +30,7 @@ twitter_username: anthemjelly
 github_username:  anthemjelly
 
 # Build settings
-theme: minima
+theme: jekflix
 plugins:
   - jekyll-feed
 
